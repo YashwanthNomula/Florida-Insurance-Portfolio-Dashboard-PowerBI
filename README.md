@@ -1,4 +1,4 @@
-
+![Project Logo][project_logo]
 ---
 
 <h4 align="center">Analyzing & Visualizing Insurance Portfolio within Florida with <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank">Python</a> and <a href="https://en.wikipedia.org/wiki/Microsoft_Power_BI" target="_blank">Power BI</a></h4>
@@ -97,3 +97,13 @@ The interactive Power BI dashboard can be viewed here:
 
 [![Power BI Dashboard][dashboard_image]][dashboard_link]
 
+<!-- Image Links -->
+
+[project_logo]: https://github.com/YashwanthNomula/nomulayashu/blob/main/Resources/Project_Image.png
+[process_workflow]: https://github.com/YashwanthNomula/nomulayashu/blob/main/Resources/process_architecture.png
+[dashboard_image]: https://github.com/YashwanthNomula/nomulayashu/blob/main/Resources/Dashboard_Image.png
+
+<!-- Profile Links -->
+
+[linkedin]: https://www.linkedin.com/in/yashwanth-nomula-/
+[dashboard_link]: https://app.powerbi.com/groups/me/reports/614b586d-750c-4582-8837-ad5de4604030/c69073df57beb7031820?experience=power-bi&clientSideAuth=0
